@@ -1,4 +1,4 @@
-Detection of ArUco Markers {#tutorial_aruco_detection}
+Detection of ArUco Markers
 ==============================
 
 Pose estimation is of great importance in many computer vision applications: robot navigation,
